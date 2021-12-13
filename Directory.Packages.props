@@ -46,7 +46,7 @@
         <PackageVersion Include="Gameloop.Vdf" Version="0.6.1" />
         <PackageVersion Include="NLog" Version="4.7.11" />
         <PackageVersion Include="NLog.Extensions.Logging" Version="1.7.4" />
-        <PackageVersion Include="NotifyIcon.Base" Version="1.0.2" />
+        <PackageVersion Include="NotifyIcon.Base" Version="1.0.5.1" />
         <PackageVersion Include="NotifyIcon.Linux" Version="1.0.2" />
         <PackageVersion Include="NotifyIcon.Mac" Version="1.0.2" />
         <PackageVersion Include="NotifyIcon.Windows" Version="1.0.3" />
